@@ -13,8 +13,6 @@ public class Main
 
 		System.err.println("Length: "+test.length);
 
-		Linked
-
 //		System.out.println(medianOfArrays(arr1.length, arr2.length, arr1, arr2));
 //		logicOp(true, false);
 
