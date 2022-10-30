@@ -1,3 +1,5 @@
+package google.foobar;
+
 import java.util.Hashtable;
 
 /**
